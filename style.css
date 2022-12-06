@@ -23,7 +23,7 @@
 }
 .sound-wave{
   display: flex;
-  justify-content: space;
+  justify-content: flex-start;
   align-items: center;
   gap: 8px;
   height: 60px;
